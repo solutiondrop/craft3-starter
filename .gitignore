@@ -16,7 +16,6 @@
 .env.php
 .env.live.php
 .env.sh
-.env.example
 .env
 .env.live
 
