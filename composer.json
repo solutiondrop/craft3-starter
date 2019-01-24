@@ -3,6 +3,8 @@
   "description": "Craft 3 CMS scaffolding project",
   "version": "1.0.1",
   "type": "project",
+  "minimum-stability" : "dev",
+  "prefer-stable" : true,
   "require": {
     "craftcms/cms": "^3.0.0",
     "vlucas/phpdotenv": "^2.4.0",
