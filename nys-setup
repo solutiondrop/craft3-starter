@@ -16,10 +16,10 @@ use mikehaertl\shellcommand\Command as ShellCommand;
 const INSTALL_PLUGINS = [
     'async-queue',
     'eager-beaver',
-    'image-optimize',
     'minify',
-    'routemap',
-    'seomatic',
+    'redactor',
+    'seo',
+    'sitemap',
     'typogrify',
 ];
 
